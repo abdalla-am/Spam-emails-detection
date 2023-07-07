@@ -1,4 +1,4 @@
-# Spam-data-detection
+# Spam-emails-detection
 
 Classified Text as Spam or Ham using NLTK and Scikit-learn
 
