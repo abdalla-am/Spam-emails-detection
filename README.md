@@ -2,6 +2,8 @@
 
 Classified Text as Spam or Ham using NLTK and Scikit-learn
 
+  <img src="https://www.lifewire.com/thmb/U-1o_qUoUt15oq83grUefJLloGw=/360x240/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-900281442-5bbfc5ea4cedfd0051750913.jpg"  />
+</div>
 **🔷Context**
 The SMS Spam Collection is a set of text that have been collected for Spam text research. It contains 5,572 group of words to form a text , tagged acording being ham (legitimate) or spam.
 
